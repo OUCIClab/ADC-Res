@@ -23,10 +23,4 @@ spurious-free dynamic range (SFDR) and signal-to-noise-plus-distortion ratio (SN
 from **56.94 dB** to **74.55 dB** and from **36.76 dB** to **73.76 dB**,
 respectively.
 
-
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell Line 1
-Content Cell  | Content Cell Line 2
-Content Cell  | Content Cell Line 3
+## 1 The impact of different structures within each block based on 16 channel
