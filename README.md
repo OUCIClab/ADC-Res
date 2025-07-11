@@ -1,5 +1,5 @@
 # High-Speed ADC Signal Restoration via Temporal Distortion Learning
-
+![overall](https://github.com/OUCIClab/ADC-Res/blob/main/overall.png "The overall framework of temporal distortion learning for high-speed ADC signal restoration.")
 ## Abstract
 High-speed analog-to-digital converters (ADCs) are
 crucial for modern signal processing systems, but they often
@@ -20,7 +20,7 @@ spurious-free dynamic range (SFDR) and signal-to-noise-plus-distortion ratio (SN
 from **56.94 dB** to **74.55 dB** and from **36.76 dB** to **73.76 dB**,
 respectively.
 
-！[overall](https://github.com/OUCIClab/ADC-Res/blob/main/overall.png)
+
 
 First Header  | Second Header
 ------------- | -------------
