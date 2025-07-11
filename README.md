@@ -1,5 +1,5 @@
 # High-Speed ADC Signal Restoration via Temporal Distortion Learning
-![tcn](https://github.com/OUCIClab/ADC-Res/blob/main/tcn.pdf "The overall framework of temporal distortion learning for high-speed ADC signal restoration.")
+![](https://github.com/OUCIClab/ADC-Res/blob/main/tcn.pdf)
 ## Abstract
 High-speed analog-to-digital converters (ADCs) are
 crucial for modern signal processing systems, but they often
