@@ -23,17 +23,20 @@ spurious-free dynamic range (SFDR) and signal-to-noise-plus-distortion ratio (SN
 from **56.94 dB** to **74.55 dB** and from **36.76 dB** to **73.76 dB**,
 respectively.
 
-## 1 The impact of different structures within each block based on 16 channel
+## 1 The impact of different structures within each block based on 16 channels
 ![](https://github.com/OUCIClab/ADC-Res/blob/main/table1.png)
 
 
 ## 2 Ablation Study
-### 2.1 channel
+### 2.1 The results of channel changes under 4 blocks and 16 FC
+
 ![](https://github.com/OUCIClab/ADC-Res/blob/main/table2.png)
 
 
-### 2.2 block
+### 2.2 The results of block changes under 7 channels and 16 FC
+
 ![](https://github.com/OUCIClab/ADC-Res/blob/main/table3.png)
 
-### 2.3 fully connected layer
+### 2.3 The results of FC changes under 7 channels and 4 blocks
+
 ![](https://github.com/OUCIClab/ADC-Res/blob/main/table4.png)
