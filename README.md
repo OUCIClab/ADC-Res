@@ -24,3 +24,12 @@ from **56.94 dB** to **74.55 dB** and from **36.76 dB** to **73.76 dB**,
 respectively.
 
 ## 1 The impact of different structures within each block based on 16 channel
+![](https://github.com/OUCIClab/ADC-Res/blob/main/table1.png)
+
+
+## 2 Ablation Study
+### 2.1 channel
+
+### 2.2 block
+
+### 2.3 fully connected layer
