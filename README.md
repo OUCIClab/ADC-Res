@@ -29,6 +29,8 @@ respectively.
 
 ## 2 Ablation Study
 ### 2.1 channel
+![](https://github.com/OUCIClab/ADC-Res/blob/main/table2.png)
+
 
 ### 2.2 block
 
