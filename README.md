@@ -1,4 +1,7 @@
 # High-Speed ADC Signal Restoration via Temporal Distortion Learning
+
+<center>Yan Liu, Xiang Gao, Mengyao Yan, Mingyu Hao, and Haiyong Zheng</center>
+  
 ![](https://github.com/OUCIClab/ADC-Res/blob/main/tcn.png "The overall framework of temporal distortion learning for high-speed ADC signal restoration.")
 ## Abstract
 High-speed analog-to-digital converters (ADCs) are
