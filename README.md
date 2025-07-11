@@ -17,8 +17,10 @@ the proposed neural network model, enabling real-time signal
 restoration of the pipelined ADC. Measurements on a silicon-proven 12-bit 750 MS/s pipelined ADC and a silicon-proven
 3000 MS/s 4-channel TIADC reveal significant improvements in
 spurious-free dynamic range (SFDR) and signal-to-noise-plus-distortion ratio (SNDR), with maximum SFDR values increasing
-from 56.94 dB to 74.55 dB and from 36.76 dB to 73.76 dB,
+from **56.94 dB** to **74.55 dB** and from **36.76 dB** to **73.76 dB**,
 respectively.
+
+！[overall](https://github.com/OUCIClab/ADC-Res/blob/main/overall.png)
 
 First Header  | Second Header
 ------------- | -------------
