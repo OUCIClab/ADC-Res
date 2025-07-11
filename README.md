@@ -28,12 +28,12 @@ respectively.
 
 
 ## 2 Ablation Study
-### 2.1 The results of channel changes under 4 blocks and 16 FC
+### 2.1 The results of channel changes under 4 blocks and 16*1 FC
 
 ![](https://github.com/OUCIClab/ADC-Res/blob/main/table2.png)
 
 
-### 2.2 The results of block changes under 7 channels and 16 FC
+### 2.2 The results of block changes under 7 channels and 16*1 FC
 
 ![](https://github.com/OUCIClab/ADC-Res/blob/main/table3.png)
 
