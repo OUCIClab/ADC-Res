@@ -33,5 +33,7 @@ respectively.
 
 
 ### 2.2 block
+![](https://github.com/OUCIClab/ADC-Res/blob/main/table3.png)
 
 ### 2.3 fully connected layer
+![](https://github.com/OUCIClab/ADC-Res/blob/main/table4.png)
