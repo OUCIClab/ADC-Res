@@ -30,6 +30,7 @@ respectively.
 
 
 ## 2. Exploration of Network Resources and Performance
+We explore the optimal network selection by changing network channels, blocks, and fully connected layers.
 
 <img src="https://github.com/OUCIClab/ADC-Res/blob/main/table2.png" width="500px">
 
