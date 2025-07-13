@@ -25,23 +25,13 @@ respectively.
 
 ## 1. The results of different structures within each block based on 16 channels
 
-<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table1.png" width="500px">
+
 
 
 
 ## 2. Ablation Study
 ### 2.1 The results of channel changes under 4 blocks and 16*1 FC
 
-<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table2.png" width="400px">
 
 
-
-### 2.2 The results of block changes under 7 channels and 16*1 FC
-
-<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table3.png" width="400px">
-
-
-### 2.3 The results of FC changes under 7 channels and 4 blocks
-
-<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table4.png" width="400px">
 
