@@ -25,14 +25,19 @@ respectively.
 
 ## 1. The results of different structures within each block based on 16 channels
 
-<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table1.png" width="400px">
+<p align="center">
+  <img src="https://github.com/OUCIClab/ADC-Res/blob/main/table1.png" width="400px">
+</p>
 
 
 
 ## 2. Exploration of Network Resources and Performance
 We explore the optimal network selection by changing network channels, blocks, and fully connected layers.
 
-<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table2.png" width="600px">
+<p align="center">
+  <img src="https://github.com/OUCIClab/ADC-Res/blob/main/table2.png" width="600px">
+</p>
+
 
 
 
