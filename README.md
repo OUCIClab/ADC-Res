@@ -25,13 +25,13 @@ respectively.
 
 ## 1. The results of different structures within each block based on 16 channels
 
+<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table1.png" width="500px">
 
 
 
+## 2. Exploration of Network Resources and Performance
 
-## 2. Ablation Study
-### 2.1 The results of channel changes under 4 blocks and 16*1 FC
-
+<img src="https://github.com/OUCIClab/ADC-Res/blob/main/table2.png" width="500px">
 
 
 
