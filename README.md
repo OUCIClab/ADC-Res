@@ -31,7 +31,7 @@ respectively.
 
 
 
-## 2. Exploration of Network Resources and Performance
+## 2. Exploration of network resources and performance
 We explore the optimal network selection by changing network channels, blocks, and fully connected layers.
 
 <p align="center">
